@@ -1,0 +1,49 @@
+Dashboard {
+    layout: grid;
+    grid-size: 2;
+    grid-gutter: 2;
+    padding: 2;
+}
+
+#question {
+    width: 100%;
+    height: 100%;
+    column-span: 2;
+    content-align: center bottom;
+    text-style: bold;
+}
+
+Switch {
+    height: auto;
+    width: auto;
+}
+
+Scanning {
+    layout: horizontal;
+}
+
+Reports {
+    layout: horizontal;
+}
+
+Button {
+    width: 100%;
+    margin: 1;
+
+}
+
+#left_pane {
+    padding: 3;
+    width: 30;
+    height: 100%;
+    color: #ffeee9;
+    background: #360b0d;
+}
+
+#right_pane {
+    padding: 2;
+}
+
+.section {
+    text-style: bold;
+}
