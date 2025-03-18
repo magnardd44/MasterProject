@@ -1,0 +1,6 @@
+[submodule "miura"]
+	path = miura
+	url = https://github.com/patrickjoh/miura.git
+[submodule "iotective"]
+	path = iotective
+	url = https://github.com/kevnor/IoTective.git
